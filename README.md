@@ -6,6 +6,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Amrjyniat&theme=default&hide\_border=false&include\_all\_commits=true&count\_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amrjyniat&theme=default&hide\_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrjyniat&theme=default&hide\_border=false&include\_all\_commits=true&count\_private=true&layout=compact)
-
------
-![](https://visitcount.itsvg.in/api?id=Amrjyniat&icon=0&color=0)[](https://visitcount.itsvg.in)
